@@ -1,19 +1,5 @@
 # surfs_up
 
-<<<<<<< HEAD
-Specifically, he wants temperature data for the months of June and December in Oahu, 
-in order to determine if the surf and ice cream shop business is sustainable year-round.
-
-This new assignment consists of two technical analysis deliverables and a written report. 
-You will submit the following:
-
-Deliverable 1: Determine the Summary Statistics for June
-Deliverable 2: Determine the Summary Statistics for December
-Deliverable 3: A written report for the statistical analysis (README.md)
-
-For the written analysis: I would want to run a full analysis on other surf and ice-cream shops in Hawaii, and attempt to understand the factors
-related to successful business in that cohort.
-=======
 ### Report that describes the key differences in weather between June and December and two recommendations for further analysis.
 * Overview of the analysis: Explain the purpose of this analysis:
 
@@ -41,4 +27,6 @@ First, it will help to see the statistical summary for each month's temperatures
 
 
 ### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
->>>>>>> 37270ebce31dd4e5aac0efaea36de17ef406e0ca
+=====
+For the written analysis: I would want to run a full analysis on other surf and ice-cream shops in Hawaii, and attempt to understand the factors
+related to successful business in that cohort.
