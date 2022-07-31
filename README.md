@@ -27,6 +27,6 @@ First, it will help to see the statistical summary for each month's temperatures
 
 
 ### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-=====
+
 For the written analysis: I would want to run a full analysis on other surf and ice-cream shops in Hawaii, and attempt to understand the factors
 related to successful business in that cohort.
