@@ -34,8 +34,8 @@ The three main points or differences between the weather in these two months wil
 
 First, it will help to see the statistical summary for each month's temperatures:
 
-![dec_temps]()
-![june_temps]()
+![dec_temps](https://github.com/jmalauss/surfs_up/blob/main/dec_temps.png)
+![june_temps](https://github.com/jmalauss/surfs_up/blob/main/june_temps.png)
 
 
 
