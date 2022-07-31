@@ -1,6 +1,6 @@
 # surfs_up
 
-# For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
+#### Write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 #### The analysis should contain the following:
 ## Overview of the analysis: Explain the purpose of this analysis:
 
