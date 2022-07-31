@@ -24,8 +24,8 @@ First, it will help to see the statistical summary for each month's temperatures
 ![june_temps](https://github.com/jmalauss/surfs_up/blob/main/june_temps.png)
 
 * The minimum temperatures for each month are interesting because they tell us how low it could possibly get. Ice-cream is best served cold on a hot day, so this information is important to because it allows us to make assumptions about our potential ice-cream sales in December. Given the strong positive correlation between ice-cream sales and temperature, we can assume that sales will drop with colder temperatures in December. An additional question we could ask here: How often are temperatures low?
-* The maximum temperatures help us understand the potential for ice-cream sales in December, which will likely increase on the hottest days. According to our summary statistics, it seems December's hot days are not much cooler than those in June. In other words, if we consider again the positive correlation between ice-cream sales and temperature, we can assume that our ice-cream sales will be just as profitable on an 83 degree day in June, or December.
-
+* The maximum temperatures help us understand the potential for ice-cream sales in December, which will likely increase on the hottest days. According to our summary statistics, it seems December's hot days are not much cooler than those in June. In other words, if we consider again the positive correlation between ice-cream sales and temperature, we can assume that our ice-cream sales will be just as profitable on an 83 degree day in June, or December. Once again we can ask how often we get days that are this hot in December?
+* The average temperatures from both months help us understand the questions above. In December, it is an average of 71 degrees. In June, 74. Although the minimum temperatures are 8 degrees apart, we can tell by the average temperature that December weather will more often be in the low 70s. By looking at the average temperatures for both months, we next likely ask: Are temperatures in the low 70s good for icecream sales?
 
 ### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
@@ -34,3 +34,4 @@ related to successful business in that cohort.
 
 weekend sales veruss weekday sales
 how often are the temperatures at their lowest and highest
+cloudiness - do clouds in the sky impact icecream sales on a hot day?
