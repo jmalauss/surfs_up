@@ -1,5 +1,6 @@
 # surfs_up
 
+Note: Some cell-outputs are cleared to ease-reading. I have attached screenshots of the output.
 ### Report that describes the key differences in weather between June and December and two recommendations for further analysis.
 * Overview of the analysis: Explain the purpose of this analysis:
 
