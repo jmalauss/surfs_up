@@ -29,9 +29,9 @@ First, it will help to see the statistical summary for each month's temperatures
 
 ### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-For the written analysis: I would want to run a full analysis on other surf and ice-cream shops in Hawaii, and attempt to understand the factors
-related to successful business in that cohort.
+The results we found show that there may not be much of a difference in temperatures between December and June, in Oahu. The differences that we found, warrant additional questions. For example: We would need more granular data on ice-cream sales in Oahu. This would help us understand how successful our shop would be on a 71 degree day - which could be a near average day for temperatures in both December and June. 
 
-weekend sales veruss weekday sales
-how often are the temperatures at their lowest and highest
-cloudiness - do clouds in the sky impact icecream sales on a hot day?
+Here are some additional questions we could explore before feeling fully informed about our business decision:
+* Analysis of existing ice-cream shops in Oahu: Sales per temperature and other factors that influence sales.
+* Does the weekend or weekday matter? If we conducted an analysis, and found a trend that there are less ice-cream sales during the weekdays, we could manipulate store hours to be more cost efficient proactively. This analysis could be conducted by deep diving the date of sales in existing ice-cream shops, and generating summary statistics for sales per days of the week.
+* Do clouds in the sky influence the desire for ice-cream on a hot day? We can agree that the sun makes things feel hotter, but is there a relationship here? By analyzing data about cloudiness in Oahu, we could further our understanding of ice-cream sales on hot days. What if there is a really cloudy 85 degree day? Do people still have the same desire for ice-cream?
