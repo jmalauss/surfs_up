@@ -23,10 +23,14 @@ First, it will help to see the statistical summary for each month's temperatures
 ![dec_temps](https://github.com/jmalauss/surfs_up/blob/main/dec_temps.png)
 ![june_temps](https://github.com/jmalauss/surfs_up/blob/main/june_temps.png)
 
-
+* The minimum temperatures for each month are interesting because they tell us how low it could possibly get. Ice-cream is best served cold on a hot day, so this information is important to because it allows us to make assumptions about our potential ice-cream sales in December. Given the strong positive correlation between ice-cream sales and temperature, we can assume that sales will drop with colder temperatures in December. An additional question we could ask here: How often are temperatures low?
+* The maximum temperatures help us understand the potential for ice-cream sales in December, which will likely increase on the hottest days. According to our summary statistics, it seems December's hot days are not much cooler than those in June. In other words, if we consider again the positive correlation between ice-cream sales and temperature, we can assume that our ice-cream sales will be just as profitable on an 83 degree day in June, or December.
 
 
 ### Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
 For the written analysis: I would want to run a full analysis on other surf and ice-cream shops in Hawaii, and attempt to understand the factors
 related to successful business in that cohort.
+
+weekend sales veruss weekday sales
+how often are the temperatures at their lowest and highest
